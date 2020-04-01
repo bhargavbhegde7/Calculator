@@ -4,7 +4,7 @@
 
     <groupId>com.learn.calc</groupId>
     <artifactId>Calculator</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -14,7 +14,7 @@
     <scm>
         <!--suppress UnresolvedMavenProperty -->
         <developerConnection>scm:git:http://${env.GIT_USERNAME}:${env.GIT_PASSWORD}@github.com/bhargavbhegde7/Calculator</developerConnection>
-        <tag>HEAD</tag>
+        <tag>Calculator-1.2</tag>
     </scm>
 
     <build>
